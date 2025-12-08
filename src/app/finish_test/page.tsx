@@ -36,7 +36,7 @@ export default function FinishTest() {
       <h1 className="mb-8 text-3xl font-bold">练习完成 / Practice Completed</h1>
 
       <div className="mb-8 text-lg">
-        <p className="mb-6">您已经完成了所有的练习题！非常感谢您的参与。</p>
+        <p className="mb-6">您已经完成了所有的练习题！非常感谢您的参与！</p>
         <p className="mb-6">
           现在，您已经了解了实验的基本流程和任务要求。在正式实验中，您将面对更多类似的字谜任务。请记住，您的目标是找出与给定的三个汉字都能组成有意义词组的一个字。
         </p>
