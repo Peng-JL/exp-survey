@@ -8,7 +8,7 @@ export default function FinishTest() {
   const [countdown, setCountdown] = useState(5);
   const [autoRedirect, setAutoRedirect] = useState(true);
 
-  // 5秒倒计时后自动跳转
+  // 5秒倒计时后自动跳转...
   useEffect(() => {
     if (!autoRedirect) return;
 
