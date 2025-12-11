@@ -19,7 +19,7 @@ export default function Population() {
       return;
     }
 
-    // 将用户选择存储在会话存储中，以便在其他页面可以使用
+    // 将用户选择存储在会话存储中，以便在其他页面可以使用！
     localStorage.setItem(
       'survey-demographics',
       JSON.stringify({
